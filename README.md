@@ -1,4 +1,4 @@
-copy comfyui_pinwheel_regional/ into your ComfyUI custom_nodes/ directory
+Copy comfyui_pinwheel_regional/ into your ComfyUI custom_nodes/ directory
 Restart ComfyUI — the node appears under Add Node → Pinwheel → Pinwheel Regional Prompts
 Connect an IMAGE source to the image input and a CLIP model to clip
 Add layers using the "+" button, position shapes on the canvas
